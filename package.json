@@ -42,7 +42,7 @@
   "homepage": "https://github.com/Houzz/sequelize-mocking#readme",
   "dependencies": {
     "lodash": "^4.17.21",
-    "sequelize-fixtures": "git+https://github.com/Houzz/sequelize-fixtures.git#8164ad8e07b2e9a58fb6e084cab09114905630f0",
+    "sequelize-fixtures": "git+https://github.com/Houzz/sequelize-fixtures.git#1a1dd9e42b31cc10e67acdf4df991fad9b4a3060",
     "sqlite3": "^5.1.7",
     "uuid": "9.0.1"
   },
