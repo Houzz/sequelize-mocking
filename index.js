@@ -19,3 +19,9 @@ Object.defineProperty(module.exports, 'sequelizeMockingMocha', {
         return require('./lib/sequelize-mocking-mocha');
     }
 });
+
+Object.defineProperty(module.exports, 'sequelizeMockingJest', {
+    'get': function() {
+        return require('./lib/sequelize-mocking-jest');
+    }
+});

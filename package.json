@@ -32,7 +32,8 @@
     "mocking",
     "fixtures",
     "test",
-    "mocha"
+    "mocha",
+    "jest"
   ],
   "author": "Julien Roche",
   "license": "MIT",
